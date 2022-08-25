@@ -12,7 +12,7 @@ Project created during the Ignite, carried out by Rocketseat.
 <div>
     <img src="./imageProject/project.png" width="99%" alt="">
     <p style="display: flex; margin-top: 5px;" >
-        <img src="./imageProject/profile.png" width="48%" alt="">
+        <img src="./imageProject/profile.png" width="38%" alt="">
         <img src="./imageProject/feed.png" width="48%" alt="">
     </p>
 </div>
